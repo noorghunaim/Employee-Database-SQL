@@ -5,7 +5,7 @@ This project demonstrates a structured analysis of a synthetic employee dataset 
 
 **📄 Dataset Details**
 
-- **Filename: **employee_clean_100.csv
+- **Filename:** employee_clean_100.csv
 
 - **Format:** CSV
 
