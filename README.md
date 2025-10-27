@@ -1,7 +1,7 @@
 # Employee-Database
 **📖 Overview**
 
-This project demonstrates a structured analysis of a synthetic employee dataset containing demographic information, department assignments, job roles, salaries, and hiring dates. The dataset has been imported into a SQLite database for querying and analysis.
+This project demonstrates a structured analysis of a synthetic employee dataset containing department assignments, job roles, salaries, and hiring dates. The dataset has been imported into a SQLite database for querying and analysis.
 
 **📄 Dataset Details**
 
